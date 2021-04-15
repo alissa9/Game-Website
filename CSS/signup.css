@@ -1,0 +1,50 @@
+* {
+  font-family: monospace;
+  font-style: italic;
+}
+
+/* log in design fonts and buttons */
+
+.loginbutton {
+  text-align: center;
+  margin-top: 100px;
+  margin-right: 130px;
+  font-weight: bolder;
+  font-size: large;
+}
+.loginbutton input {
+  width: 200px;
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0.644); 
+  color: black; 
+  border: 6px solid #c3c1a3e8;
+}
+
+#theloginbutton{
+  border: 6px solid #c3c1a3e8;
+  font-size: larger;
+}
+
+
+/* Sign up design fonts and buttons*/
+
+.signupbutton {
+  text-align: center;
+  margin-top: 100px;
+  margin-right: 100px;
+  font-weight: bolder;
+  font-size: large;
+
+}
+.signupbutton input {
+  width: 200px;
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0.644); 
+  color: black; 
+  border: 6px solid #c3c1a3e8;
+}
+
+#thesignupbutton{
+  border: 6px solid #c3c1a3e8;
+  font-size: larger;
+}

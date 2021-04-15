@@ -1,0 +1,17 @@
+/* these styles are for the table on leaderborad page */
+table,th,td {
+  border: 2px solid black;
+  padding: 2px;
+  font-size: 20px;
+}
+
+table {
+  border-spacing: 3px;
+}
+
+.LeaderboardTable {
+  width: 800px;
+  height: 600px;
+  background-color: rgba(226, 226, 226, 0.582);
+  margin-left: 440px;
+}

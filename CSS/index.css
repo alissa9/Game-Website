@@ -1,0 +1,27 @@
+/* this to deisgn the main box on the index page */
+.IndexCanvas {
+  width: 800px;
+  height: 600px;
+  background-color: rgba(0, 0, 0, 0);
+  margin-left: 440px;
+}
+/* this to deisgn the the title on the index page */
+.IndexCanvas h1 {
+  padding-top: 50px;
+  color: rgb(224, 223, 205);
+  font-size: 50px;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 0 10px 10px black;
+}
+
+/* this to deisgn the the description text on the index page */
+.IndexCanvas h2 {
+  padding-top: 20px;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+}

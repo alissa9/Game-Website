@@ -1,0 +1,39 @@
+/* to style the contact us form */
+.Contactus {
+  text-align: center;
+  margin-top: 100px;
+  margin-right: 130px;
+  font-weight: bolder;
+  font-size: large;
+}
+
+/* styling the boxes */
+.Contactus input {
+  width: 200px;
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0.644);
+  color: black;
+  border: 6px solid #6e77c7e8;
+}
+/* styling the button */
+.ContactButton {
+  border: 6px solid #6e77c7e8;
+  font-size: larger;
+}
+/* styling the text message box to make it bigger */
+.Message input {
+  height: 150px;
+}
+
+/* this to style the font below the contact us form  */
+.Rights {
+  font-style: italic;
+  padding-top: 50px;
+  color: rgb(224, 223, 205);
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 0 10px 10px black;
+  margin-right: 120px;
+}
